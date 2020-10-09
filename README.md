@@ -1,2 +1,2 @@
 # tests-git
-wasuuuup wasaaaaaaaaabi
+wasuuuup wasaaaaabi
